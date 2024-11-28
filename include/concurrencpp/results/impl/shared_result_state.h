@@ -124,4 +124,3 @@ namespace concurrencpp::details {
 }  // namespace concurrencpp::details
 
 #endif
-
